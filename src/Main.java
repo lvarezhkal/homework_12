@@ -10,6 +10,5 @@ public class Main {
         System.out.println(glukhovsky + " " + metro2033);
         metro2033.setYear(2007);
         System.out.println(glukhovsky + " " + metro2033);
-
     }
 }
